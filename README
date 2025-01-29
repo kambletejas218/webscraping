@@ -4,7 +4,9 @@ install chrome-webdriver - https://storage.googleapis.com/chrome-for-testing-pub
 - beautifulsoup4
 
 
-Webscrape (optional )
+Webscrape (optional)
 Step - run main.py --> to get all html file
-you can directly run 
-Step
+
+
+
+Step 2 - you can directly run ---> scraper.py
