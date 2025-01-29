@@ -1,0 +1,10 @@
+Step 1 - Install dependencies 
+install chrome-webdriver - https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.159/win64/chromedriver-win64.zip
+- selenium
+- beautifulsoup4
+
+
+Webscrape (optional )
+Step - run main.py --> to get all html file
+you can directly run 
+Step
